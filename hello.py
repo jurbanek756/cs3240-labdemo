@@ -2,4 +2,4 @@ __author__ = 'Joe'
 
 import helper
 
-print("hello")
+helper.greeting("This is a Test")
